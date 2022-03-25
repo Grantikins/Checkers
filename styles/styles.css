@@ -1,0 +1,14 @@
+canvas{
+    margin-left: 500;
+    margin-top: 50;
+    outline-style: solid;
+    outline-color: black; 
+}
+
+h2{
+    margin-left: 700;
+}
+
+body{
+    background-color: bisque;
+}
